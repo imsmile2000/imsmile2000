@@ -1,6 +1,7 @@
+<div align=center>
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=LEE%20YOONPYO&fontSize=90)
 
-<div align=center>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imsmile2000&show_icons=true)
 
