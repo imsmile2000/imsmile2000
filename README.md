@@ -9,7 +9,6 @@
 
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={imsmile2000}&theme={blue})](https://github.com/loosie/github-readme-tistory-card)
  
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=imsmile2000)](https://github.com/loosie/github-readme-tistory-card)
-  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=imsmile2000)](https://imsmile2000.tistory.com)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=imsmile2000)](https://imsmile2000.tistory.com)
 
 </div>
