@@ -9,6 +9,9 @@
 
 </div>
 
+## 이력서
+https://docs.google.com/document/d/1qO416T0npaSvLMccwZWHrgT6otavCMDt4RsYNwfbVHQ/edit
+
 ## 📚 Skills
 <div align=left> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
