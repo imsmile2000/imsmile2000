@@ -9,8 +9,24 @@
 
 </div>
 
+### 경험
+
+🏢 안랩 인공지능팀 인턴십 (2023.12.26.~ ing )<br>
+
+💻 Naver Boostcamp AI Tech 5th (2023-03-05~2023-08-02)<br>
+
+🏫 동국대학교 정보통신공학과 졸업 (2019.03 ~ 2023.08)
+
+💻 동국대학교 자연어처리 학부연구생 (2020.06(?) ~2022-12)<br>
+
+
+## 포트폴리오
+https://www.notion.so/c2419c325bb64733a72535e9f460ed0d?pvs=4
+
 ## 이력서
 https://docs.google.com/document/d/1qO416T0npaSvLMccwZWHrgT6otavCMDt4RsYNwfbVHQ/edit
+
+----
 
 ## 📚 Skills
 <div align=left> 
